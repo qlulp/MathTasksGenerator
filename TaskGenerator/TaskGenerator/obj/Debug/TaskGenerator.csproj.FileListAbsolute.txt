@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\TaskGenerator\TaskGenerator\bin\Debug\TaskGenerator.exe.config
+C:\Users\Admin\source\repos\TaskGenerator\TaskGenerator\bin\Debug\TaskGenerator.exe
+C:\Users\Admin\source\repos\TaskGenerator\TaskGenerator\bin\Debug\TaskGenerator.pdb
+C:\Users\Admin\source\repos\TaskGenerator\TaskGenerator\obj\Debug\TaskGenerator.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TaskGenerator\TaskGenerator\obj\Debug\TaskGenerator.Properties.Resources.resources
+C:\Users\Admin\source\repos\TaskGenerator\TaskGenerator\obj\Debug\TaskGenerator.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TaskGenerator\TaskGenerator\obj\Debug\TaskGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TaskGenerator\TaskGenerator\obj\Debug\TaskGenerator.exe
+C:\Users\Admin\source\repos\TaskGenerator\TaskGenerator\obj\Debug\TaskGenerator.pdb
+C:\Users\Admin\source\repos\TaskGenerator\TaskGenerator\obj\Debug\TaskGenerator.Settings.resources
+C:\Users\Admin\source\repos\TaskGenerator\TaskGenerator\obj\Debug\TaskGenerator.Start.resources
+C:\Users\Admin\source\repos\TaskGenerator\TaskGenerator\obj\Debug\TaskGenerator.SettingsLogin.resources
